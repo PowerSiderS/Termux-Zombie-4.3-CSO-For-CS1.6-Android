@@ -1,0 +1,163 @@
+[en]
+NOTICE_VIRUS_FREE = The T-Virus has been set loose...
+NOTICE_FIRST = %s is the first zombie !!
+NOTICE_INFECT = %s's brains has been eaten...
+NOTICE_INFECT2 = %s's brains has been eaten by %s...
+NOTICE_ANTIDOTE = %s has used an antidote...
+NOTICE_NEMESIS = %s is a Nemesis !!!
+NOTICE_SURVIVOR = %s is a Survivor !!!
+NOTICE_SWARM = Swarm Mode !!!
+NOTICE_MULTI = Multiple Infection !!!
+NOTICE_PLAGUE = Plague Mode !!!
+
+WIN_HUMAN = Humans defeated the plague!
+WIN_ZOMBIE = Zombies have taken over the world!
+WIN_NO_ONE = No one won...
+
+CMD_INFECT = turned into a Zombie
+CMD_DISINFECT = turned back to Human
+CMD_NEMESIS = turned into a Nemesis
+CMD_SURVIVAL = turned into a Survivor
+CMD_SWARM = start Swarm Mode
+CMD_MULTI = start Multiple Infection
+CMD_PLAGUE = start Plague Mode
+CMD_RESPAWN = respawned
+CMD_NOT = Unavailable command.
+CMD_ZOMBIE_ONLY = This is only available to zombies.
+CMD_HUMAN_ONLY = This is only available to humans.
+CMD_NOT_STUCK = You are not stuck.
+CMD_NOT_ACCESS = You have no access.
+CMD_NOT_CANTUSE = You can't use this right now.
+CMD_NOT_EXTRAS = Extra Items are disabled.
+CMD_NOT_ZCLASSES = Zombie Classes are disabled.
+
+MENU_BUY = Buy Weapons
+MENU_EXTRABUY = Buy Extra Items
+MENU_ZCLASS = Choose Zombie Class
+MENU_UNSTUCK = Unstuck
+MENU_ADMIN = Admin Menu
+MENU_INFO = Help
+MENU_SPECTATOR = Join Spectators
+
+MENU_BUY1_TITLE = Primary Weapon
+MENU_BUY2_TITLE = Secondary Weapon
+MENU_ZCLASS_TITLE = Zombie Class
+MENU_EXTRA_TITLE = Extra Items
+MENU_ADMIN_TITLE = Admin Menu
+MENU_INFO_TITLE = Plugin Information
+
+MENU_EXTRA1 = NightVision (single round)
+MENU_EXTRA2 = T-Virus Antidote
+MENU_EXTRA3 = Zombie Madness
+MENU_EXTRA4 = Infection Bomb
+MENU_ADMIN1 = Make Zombie/Human
+MENU_ADMIN2 = Make Nemesis
+MENU_ADMIN3 = Make Survivor
+MENU_ADMIN4 = Respawn Someone
+MENU_ADMIN5 = Start Swarm Mode
+MENU_ADMIN6 = Start Multiple Infection
+MENU_ADMIN7 = Start Plague Mode
+MENU_INFO1 = General
+MENU_INFO2 = Humans
+MENU_INFO3 = Zombies
+MENU_INFO4 = Gameplay Modes
+
+MENU_AUTOSELECT = Remember Selection
+MENU_BACK = Back
+MENU_NEXT = Next
+MENU_EXIT = Exit
+
+MOTD_INFO11 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>%s %s by %s :</b> is a Counter-Strike plugin developed for AMX Mod X, in which humans and zombies are confronted. It is based on the classic zombie infection mod: on every round a random player is picked to be the first zombie who has to infect everyone else. 
+MOTD_INFO12 = But there are new features and enhancements. For instance, you are able to buy extra items (such as weapons) in exchange of ammo packs. You can get ammo packs by killing zombies/infecting humans.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO1_A = <br>Ambience Effects:
+MOTD_INFO1_B = <br>Lightning Level: %s
+MOTD_INFO1_C = <br>Triggered Lights: %L
+MOTD_INFO1_D = <br>Thunderclaps Every: %d seconds
+MOTD_INFO1_E = <br>Doors: %L
+MOTD_INFO1_F = <br>Deathmatch: %L
+MOTD_INFO1_G = <br>Spawn Protection Time: %d seconds
+MOTD_INFO1_H = <br>Random Spawning: %L
+MOTD_INFO1_I = <br>Extra Items: %L
+MOTD_INFO1_J = <br>Zombie Classes: %L
+MOTD_INFO1_K = <br>Custom Nightvision: %L
+MOTD_INFO1_L = <br>Custom Flashlight: %L
+MOTD_INFO2 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>Humans:</b> their objective is to eliminate any zombie threat. They have a big arsenal of weapons to choose from, and use flashlights on dark maps. Team work is a must to survive.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO2_A = <br>Health: %d
+MOTD_INFO2_B = <br>Health Reward for Last Human: %d
+MOTD_INFO2_C = <br>Speed: %d
+MOTD_INFO2_D = <br>Gravity: %d
+MOTD_INFO2_E = <br>Ammo: %L
+MOTD_INFO2_F = <br>Damage to Get an Ammo Pack: %d
+MOTD_INFO2_G = <br>Fire Grenades: %L
+MOTD_INFO2_H = <br>Frost Grenades: %L
+MOTD_INFO2_I = <br>Flare Grenades: %L
+MOTD_INFO2_J = <br>Knockback: %L
+MOTD_INFO3 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>Zombies:</b> their objective is to infect every alive human. They are able to see in the dark, but can only attack melee. There are many zombie classes to choose from, each with his own strenghts and weaknesses, but all capable of eating brains.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO3_A = <br>Zombie Health: %d
+MOTD_INFO3_B = <br>First Zombie Health: %d
+MOTD_INFO3_C = <br>Armor: %d%% damage taken
+MOTD_INFO3_D = <br>Speed: %d
+MOTD_INFO3_E = <br>Gravity: %d
+MOTD_INFO3_F = <br>HP for Infection: %d
+MOTD_INFO3_G = <br>Pain Shock Free: %L
+MOTD_INFO3_H = <br>Bleeding: %L
+MOTD_INFO3_I = <br>Ammo Packs for Infection: %d
+MOTD_INFO4 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>Mini-Games:</b> there are 5 special gameplay modes that may randomly take place during the course of the game.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO4_A = <br>Nemesis: %L
+MOTD_INFO4_B = <br>Nemesis Chance: 1 in %d
+MOTD_INFO4_C = <br>Nemesis Health: %s
+MOTD_INFO4_D = <br>Nemesis Speed: %d
+MOTD_INFO4_E = <br>Nemesis Gravity: %d
+MOTD_INFO4_F = <br>Nemesis Leap: %L
+MOTD_INFO4_G = <br>Nemesis Pain Shock Free: %L
+MOTD_INFO4_H = <br><br>Survivor: %L
+MOTD_INFO4_I = <br>Survivor Chance: 1 in %d
+MOTD_INFO4_J = <br>Survivor Health: %s
+MOTD_INFO4_K = <br>Survivor Speed: %d
+MOTD_INFO4_L = <br>Survivor Gravity: %d
+MOTD_INFO4_M = <br>Survivor Leap: %L
+MOTD_INFO4_N = <br>Survivor Pain Shock Free: %L
+MOTD_INFO4_O = <br><br>Swarm Mode: %L
+MOTD_INFO4_P = <br>Swarm Mode Chance: 1 in %d
+MOTD_INFO4_Q = <br><br>Multi Infection: %L
+MOTD_INFO4_R = <br>Multi Infection Chance: 1 in %d
+MOTD_INFO4_S = <br>Infection Ratio: %d%%
+MOTD_INFO4_T = <br><br>Plague Mode: %L
+MOTD_INFO4_U = <br>Plague Mode Chance: 1 in %d
+MOTD_INFO4_V = <br>Infection Ratio: %d%%
+
+MOTD_ENABLED = Enabled
+MOTD_DISABLED = Disabled
+MOTD_FOG = Fog
+MOTD_RAIN = Rain
+MOTD_SNOW = Snow
+MOTD_ROTATING = Rotating doors removed
+MOTD_DOORS = All doors removed
+MOTD_DM_HUMAN = Respawn as human
+MOTD_DM_ZOMBIE = Respawn as zombie
+MOTD_LIMITED = Limited
+MOTD_AMMO_BP = Unlimited reloads
+MOTD_AMMO_CLIP = Unlimited clip
+MOTD_LASTZOMBIE = Only on last zombie
+
+ZOMBIE_ATTRIB1 = Health
+ZOMBIE_ATTRIB2 = Speed
+ZOMBIE_ATTRIB3 = Gravity
+ZOMBIE_ATTRIB4 = Knockback
+
+CLASS_CLASS = Class:
+CLASS_HUMAN = Human
+CLASS_ZOMBIE = Zombie
+CLASS_SURVIVOR = Survivor
+CLASS_NEMESIS = Nemesis
+
+LAST_ZOMBIE_LEFT = The last zombie has left, %s is the new zombie.
+LAST_HUMAN_LEFT = The last human has left, %s is the new human.
+NOT_ENOUGH_AMMO = You dont have enough ammo packs.
+AMMO_BOUGHT = You purchased extra ammo for your guns.
+ZOMBIE_SELECT = Your zombie class after the next infection will be
+BUY_ENABLED = Your buy menu has been re-enabled.
+AMMO_PACKS1 = Ammo packs:
+AMMO_PACKS2 = Pack's
+SPECTATING = Spectating:
+

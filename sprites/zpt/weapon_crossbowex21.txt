@@ -1,0 +1,5 @@
+4
+weapon			640 zpt/640hud205	0 	90	170	45
+weapon_s		640 zpt/640hud205	0	135	170	45
+ammo    	  	640 zpt/640hud40	25	231	 24	24
+ammo2    	  	640 zpt/640hud40	49	231	 24	24
