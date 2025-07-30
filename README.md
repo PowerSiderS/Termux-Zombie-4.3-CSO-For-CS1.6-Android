@@ -66,7 +66,7 @@ i will upload files in git later for those who want to fork my mod 😁
    - To: `/storage/emulated/0/Download/termux-xash3d/`
 
 8. **Extract `put files in downloaded.7z`**  
-   - Copy its contents to: `/storage/emulated/0/Download/downloaded/`
+   - Copy its contents to: `/storage/emulated/0/Android/data/su.xash.engine.test/files/downloaded/`
 
 9. **Launch the server again (old engine only)**  
    - Choose the map: `zm_dust_world`
