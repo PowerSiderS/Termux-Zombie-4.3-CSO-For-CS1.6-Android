@@ -3,6 +3,8 @@
 Run a fully customized Zombie CSO server for Counter-Strike 1.6 on Android using Termux + Xash3D.  
 Built for solo play with powerful enhancements, exclusive models, ViP/Admin privileges, and more.
 
+i will upload files in git later for those who want to fork my mod 😁
+
 ---
 
 ## 👤 Credits
