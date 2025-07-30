@@ -92,10 +92,17 @@ i will upload files in git later for those who want to fork my mod 😁
 - **RVNC Viewer Shows Error Message**  
   ➤ *Fix: Clear RVNC Viewer app data and relaunch Termux server.*
 
+- **Level System Not Work?!**  
+  ➤ *I forgot to set level plugin and natives. Consider it just an ornament 💀🌚*
+  
 ---
 
-- **Photos From The Mod**
+- ## Photos From The Mod
 ![Screenshot_2025-07-29-14-54-18-004_su xash engine test](https://github.com/user-attachments/assets/87f51d56-f87c-41f3-930e-505fb33c14c9)
+![Screenshot_2025-07-30-15-17-31-542_su xash engine test](https://github.com/user-attachments/assets/7735decd-9706-43d0-86b2-4cf876eced4d)
+![Screenshot_2025-07-30-15-17-08-198_su xash engine test](https://github.com/user-attachments/assets/3a26885a-3c4c-494d-8459-cd8228c79d43)
+
+
 
 ---
 
