@@ -7,7 +7,8 @@
 • Death Stroke
 
 ### • Requirements •
-• Termux App
+• Termux App (Google Play)
+• RVNC Viewer (Google Play)
 • Xash3D Server Running in termux (By VX)
 
 #### What's New?
@@ -40,5 +41,14 @@ if you launched server in old engine then change `49` to `48`
 
 9 -> launch server termux in old engine only and choose `zm_dust_world` map
 
-- That's it!
+10 -> open cs1.6 android and write in console: `connect 127.0.0.1:27015 48`
 
+That's it :D
+
+### • Known Bugs! •
+• Sometimes server old engine crash (cuz a lot of plugins)
+• Solutions: just re-open server again
+• Server doesn't allow players from other devices to play with you. even server local and same Wifi or Data Mobile. you create server, you only who can connect!
+
+• sometimes RVNC Viewer Show u error message
+• solution: just clear app data and open termux server again
