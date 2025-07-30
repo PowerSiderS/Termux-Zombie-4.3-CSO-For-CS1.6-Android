@@ -17,8 +17,8 @@ i will upload files in git later for those who want to fork my mod 😁
 ---
 
 ## 📋 Requirements
-- [Termux](https://play.google.com/store/apps/details?id=com.termux)
-- [RVNC Viewer](https://play.google.com/store/apps/details?id=com.richard.rvnc)
+- Termux (Google Play)
+- RVNC Viewer (Google Play)
 - Xash3D Server (by VX, runs in Termux)
 
 ---
