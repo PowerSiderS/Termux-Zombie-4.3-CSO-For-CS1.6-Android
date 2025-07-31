@@ -49,9 +49,11 @@ Built for solo play with powerful enhancements, exclusive models, ViP/Admin priv
 
    ▶️ Need help? [Watch this YouTube guide](https://youtu.be/Xkm5aSdNnlw?si=WHKaPY1K2CM3NJwD)
 
-4. **Run the server from Termux**  
+4. **Test Run the server from Termux**  
    - Connect using: `127.0.0.1:27015 49`  
    - If using the old engine server: `127.0.0.1:27015 48`
+  
+   **Everything fine. you can complete ✅**
 
 5. **Download required files from releases**  
    - `xash3d.zip`  
