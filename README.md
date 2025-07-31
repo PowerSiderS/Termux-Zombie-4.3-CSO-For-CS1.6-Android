@@ -83,8 +83,10 @@ Built for solo play with powerful enhancements, exclusive models, ViP/Admin priv
 
 - **Crash on Old Engine**  
   Too many plugins may cause crashes.  
-  ➤ *Solution: Simply restart the server.*
-
+  ➤ *Solution: Try to remove 2 Extra items From `plugins-zplague.ini`.*
+- **Extra Del Weapon**
+- **Extra Augex Weapons**
+  
 - **Only You Can Connect (Localhost only)**  
   The server does not support LAN or external players, even with the same WiFi or mobile data.  
   ➤ *Only the local device (your phone) can connect.*
