@@ -62,6 +62,10 @@ Built for solo play with powerful enhancements, exclusive models, ViP/Admin priv
 6. **Delete old Xash files**  
    - Path: `/storage/emulated/0/Download/termux-xash3d`
 
+6,5. **Add Yourself as Admin**
+   - Path:
+`/storage/emulated/0/Download/termux-xash3d/xash/cstrike/addons/amxmodx/configs/users.ini`
+
 7. **Extract `xash3d.zip`**  
    - To: `/storage/emulated/0/Download/termux-xash3d/`
 
